@@ -205,4 +205,5 @@ dmypy.json
 # custom
 
 conf.ini
-.idea
+/.idea
+/test/
